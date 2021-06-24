@@ -1,7 +1,8 @@
 ### Kon'nichiwa ppl 🥰
 
 I am a developer who started coding when I was 11 years old.
-I started with visual basic at school!
+I started with visual basic at school! (I was supposed to learn it by 14 years old tho), but I like trying stuff and I was in a good relationship with my IT teacher so yeah.
+
 My IT teacher thought I was so good at it, so He invited me to join a nationwide coding competition!
 Since we were only 11 years old, The competition wasn't that hard (for me rn xD). They wanted us to know the basics.
 like data type, functions etc.
