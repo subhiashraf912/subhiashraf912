@@ -29,4 +29,6 @@ If you're here for some of my projects, then thanks for using them! Love you eve
 If you're still reading this, you're awesome! 😁
 
 
+Lmao here's the stats image, it doesn't show the private repos data tho xD when most of my projects are private,
+But yeah, here it is!
 <img src= "https://github-readme-stats.vercel.app/api?username=subhiashraf912&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
