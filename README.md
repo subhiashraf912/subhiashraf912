@@ -27,3 +27,6 @@ my instagram is "aze.sama" without the qoutes ofc
 
 If you're here for some of my projects, then thanks for using them! Love you everyone!🥰
 If you're still reading this, you're awesome! 😁
+
+
+<img src= "https://github-readme-stats.vercel.app/api?username=subhiashraf912&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
