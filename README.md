@@ -8,11 +8,9 @@ Sobhi Ashraf
 Since 2017, I have been immersed in the world of programming, exploring various languages and technologies. From TypeScript, JavaScript, Node.js, and Python to Java, C, C#, and C++, I have honed my skills in multiple programming languages. Additionally, I'm proficient in web development using React, React Native, HTML, and CSS.
 
 🌟 GitHub Stats:
-
 ![Sobhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhiashraf912&show_icons=true&count_private=true&hide_border=true&theme=dark&include_all_commits=true)
 
 ⭐ Top Languages:
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhiashraf912&layout=compact&hide_border=true&theme=dark&langs_count=6&exclude_repo=private-repo1,private-repo2)
 
 📚 Areas of Interest:
@@ -23,6 +21,9 @@ I'm a firm believer in the power of collaboration and the open-source community.
 
 🎓 Education:
 - Bachelor of Science in Software Engineering and AI | University of Palestine | Present
+
+🌟 Code for Palestine Graduate:
+I am proud to have graduated from Code for Palestine, facilitated by CodeDotX.org. This experience has deepened my understanding of technology's potential to make a positive impact on society.
 
 📫 Get in Touch:
 If you have any questions, suggestions, or exciting collaboration opportunities, feel free to reach out to me. I'm always eager to connect with fellow developers and learn from their experiences. You can find me on GitHub or reach me via email at sobhiashraf07@gmail.com.
