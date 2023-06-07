@@ -9,11 +9,11 @@ Since 2017, I have been immersed in the world of programming, exploring various 
 
 🌟 GitHub Stats:
 
-![Sobhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhiashraf912&show_icons=true&count_private=true&hide_border=true)
+![Sobhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhiashraf912&show_icons=true&count_private=true&hide_border=true&theme=dark&include_all_commits=true)
 
 ⭐ Top Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhiashraf912&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhiashraf912&layout=compact&hide_border=true&theme=dark&langs_count=6&exclude_repo=private-repo1,private-repo2)
 
 📚 Areas of Interest:
 My academic focus lies in the exciting realms of software engineering and AI. I am constantly exploring new ways to leverage cutting-edge technologies to build innovative solutions. Whether it's developing robust software applications or creating intelligent AI systems, I thrive on the challenges that arise from combining logic, creativity, and problem-solving.
