@@ -8,9 +8,11 @@ Sobhi Ashraf
 Since 2017, I have been immersed in the world of programming, exploring various languages and technologies. From TypeScript, JavaScript, Node.js, and Python to Java, C, C#, and C++, I have honed my skills in multiple programming languages. Additionally, I'm proficient in web development using React, React Native, HTML, and CSS.
 
 🌟 GitHub Stats:
+
 ![Sobhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhiashraf912&show_icons=true&count_private=true&hide_border=true)
 
 ⭐ Top Languages:
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhiashraf912&layout=compact&hide_border=true)
 
 📚 Areas of Interest:
